@@ -14,12 +14,12 @@ One of the main challenges that I am facing right now is placement of the electr
 The modified bed STLs will support Ender 2, KP3S, and Prusa Mini bed
 
 This is the current list of WIP BOM
-A Mainboard that can control 6 steppers individually. Some examples, BTT Octopus, BTT Manta M8P, MKS Monster8.
-8mm Diameter, 300mm length linear rod
-Additional stepper motor
-Additional lead screw and coupler
-Additional LM8UU
-M3x5x5 mm Heat Inserts
-Assorted M3 screws
+-A Mainboard that can control 6 steppers individually. Some examples, BTT Octopus, BTT Manta M8P, MKS Monster8.
+-8mm Diameter, 300mm length linear rod
+-Additional stepper motor
+-Additional lead screw and coupler
+-Additional LM8UU
+-M3x5x5 mm Heat Inserts
+-Assorted M3 screws
 
 

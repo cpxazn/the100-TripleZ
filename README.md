@@ -17,7 +17,7 @@ This is the current list of WIP BOM
 - A Mainboard that can control 6 steppers individually. Some examples, BTT Octopus, BTT Manta M8P, MKS Monster8.
 - 8mm Diameter, 300mm length linear rod
 - Additional stepper motor
-- Additional lead screw (200mm) and coupler
+- Additional lead screw (200mm length, 8mm diameter, 2mm pitch) and coupler
 - Additional LM8UU
 - M3x5x5mm Heat Inserts
 - Assorted M3 screws

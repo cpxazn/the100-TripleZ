@@ -11,7 +11,19 @@ I tried to design it so that it is easy for anyone with The 100 to adopt this mo
 
 One of the main challenges that I am facing right now is placement of the electronics because the mainboards will be larger, and the extra Z stepper takes quite a bit of space. May have to design a tray mounted on top of the power supply.
 
-The modified bed STLs will support Ender 2, KP3S, and Prusa Mini bed
+Other General Improvements
+- Front bottom frame pieces
+  - Uses heat inserts to attach the feet
+  - Can now secure the two vertical rods using screws through heat inserts
+  - Heat insert slots located all throughout the frame to allow easy modification
+- Feet
+  - Has slot for M5 nut to allow attaching rubber feet
+- Bed Left/Right
+  - Uses heat inserts to secure LM8UU bearings
+  - No longer requires supports to print
+  - Supports Prusa Mini bed
+- Bed Center
+  - Supports Ender 2 Pro and KP3S bed
 
 This is the current list of WIP BOM
 - A Mainboard that can control 6 steppers individually. Some examples, BTT Octopus, BTT Manta M8P, MKS Monster8.

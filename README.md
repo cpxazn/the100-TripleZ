@@ -5,7 +5,7 @@ After building and using The 100 for a bit, I noticed that one of the weak point
 
 I'm hoping that triple Zs would address this issue, however this will not come cheap because introducing another stepper and the ability to move each Z stepper individually will require a more expensive mainboard. 
 
-This also comes with an additional benefit however. Since there are three lead screws, it should be possible to enable automatic bed leveling like the Trident and the Rook 180.
+This also comes with an additional benefit however. Since there are three lead screws, it should be possible to enable automatic bed leveling like the Trident and the Rook 180. This means you can start a print and walk away and never worry about bed leveling.
 
 I tried to design it so that it is easy for anyone with The 100 to adopt this mod. Unfortunately a few big pieces must be reprinted if you already have printed them. This includes the three bed pieces and the two front bottom frames.
 

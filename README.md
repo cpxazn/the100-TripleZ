@@ -29,7 +29,7 @@ One of the main challenges that I am facing right now is placement of the electr
 - A Mainboard that can control 6 steppers individually. Some examples, BTT Octopus, BTT Manta M8P, MKS Monster 8.
 - Additional stepper motor
 - Additional lead screw (200mm length, 8mm diameter, 2mm pitch) and coupler
-- 2x LM8UU
+- 4x LM8UU
 - M3x5x5mm Heat Inserts
 - Assorted M3 screws
 
